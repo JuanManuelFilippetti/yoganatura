@@ -1,0 +1,15 @@
+.navBar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #4a4564;
+}
+
+.navOpen{
+    display: flex;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: #4a4564;
+    flex-direction: column;
+}
